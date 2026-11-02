@@ -17,6 +17,10 @@ Vietnamese native speaker and medical doctor (MD) exploring **AI evaluation**, *
 
 ## Notes
 This profile repository is public for portfolio visibility. Some project repositories are private.
-## Public demos
+# Public demos
+- Vietnamese AI Evaluation Sample: https://github.com/nguyencuong102tg/vietnamese-ai-evaluation-sample
+- Medical Data Quality Checklist: https://github.com/nguyencuong102tg/medical-data-quality-checklist
+
+The Medical Data Quality Checklist includes a small Python validator for annotation-review CSV rows.
 - Vietnamese AI Evaluation Sample: https://github.com/nguyencuong102tg/vietnamese-ai-evaluation-sample
 - Medical Data Quality Checklist: https://github.com/nguyencuong102tg/medical-data-quality-checklist
