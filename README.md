@@ -7,7 +7,7 @@ Vietnamese native speaker and medical doctor (MD) exploring **AI evaluation**, *
 - Audio/pronunciation/fluency assessment with written English feedback
 - Medical terminology and health-related content review
 - Data cleaning, annotation QA, and structured dataset review
-- Remote part-time work with 02:00–07:00 Vietnam time
+- Remote part-time work with 02:00-07:00 Vietnam time
 
 ## Background
 - Doctor of Medicine, Vo Truong Toan University
@@ -15,12 +15,11 @@ Vietnamese native speaker and medical doctor (MD) exploring **AI evaluation**, *
 - English: B2 (VSTEP)
 - Working with Python, SQLite, Markdown, HTML, Obsidian, Git, and AI-assisted workflows
 
-## Notes
-This profile repository is public for portfolio visibility. Some project repositories are private.
-# Public demos
+## Public demos
 - Vietnamese AI Evaluation Sample: https://github.com/nguyencuong102tg/vietnamese-ai-evaluation-sample
 - Medical Data Quality Checklist: https://github.com/nguyencuong102tg/medical-data-quality-checklist
 
 The Medical Data Quality Checklist includes a small Python validator for annotation-review CSV rows.
-- Vietnamese AI Evaluation Sample: https://github.com/nguyencuong102tg/vietnamese-ai-evaluation-sample
-- Medical Data Quality Checklist: https://github.com/nguyencuong102tg/medical-data-quality-checklist
+
+## Notes
+This profile repository is public for portfolio visibility. Some project repositories are private.
